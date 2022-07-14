@@ -24,8 +24,8 @@ public class Main {
         //float f1=4.5;
         float f2=10.68f;
 
-        asrn24678md=100;
-        asrn2$4678_md=10;
+        double d1=85.68f;
+        double d2= 99.84d;
 
         char c1='w';
         //char c2='Tw';
