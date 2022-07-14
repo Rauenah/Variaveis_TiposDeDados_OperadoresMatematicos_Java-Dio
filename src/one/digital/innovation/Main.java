@@ -8,47 +8,62 @@ package one.digital.innovation;
 public class Main {
 
     public  static void main(String[]args) {
-       int i;
-       //int i;
-       int I;
-       //int _1a;
-       int _1a;
-       int $aq;
 
-        i =5;
-        I=10;
-        _1a=20;
-        $aq= 7;
+        byte b1=10;
+        byte b2=20;
 
-        final int j =10;
-        //j = 15;
-        int asrn24678md;
-        //int asrn246 78md;
-        int asrn2$4678_md;
-        //int asrn2$46%78_md =10;
+        short s1=20000;
+        //short s2=40000;
+
+        //int i1= 10000000000;
+        int i2=28500;
+
+        long l1=1000000000000000000L;
+        long l2=2004005000500055000L;
+
+        //float f1=4.5;
+        float f2=10.68f;
 
         asrn24678md=100;
         asrn2$4678_md=10;
 
-        int quantidadeproduto=50;
-        //int QuantidadeProduto;
-        final int NUMERO_TENTATIVAS=5;
-        //final int numeroTentativas=5;
-        int QUANTIDADE_OPCOES=25;
-        //int qtdPProd;
+        char c1='w';
+        //char c2='Tw';
+        char c3 ='\u8857';
 
-        System.out.println(i);
-        System.out.println(I);
-        System.out.println(_1a);
-        System.out.println($aq);
+        String st1 ="Fulano";
+        String st2="Cicrano";
+        String st3="ag dgb se se et t KNBJBB&* G%G 758994389";
 
-        System.out.println(j);
-        System.out.println(asrn24678md);
-        System.out.println(asrn2$4678_md);
+        String dt1= "09/02/1981";
 
-        System.out.println(quantidadeproduto);
-        System.out.println(NUMERO_TENTATIVAS);
-        System.out.println(QUANTIDADE_OPCOES);
+        boolean bo1= true;
+        boolean bo2=false;
+
+        System.out.println(b1);
+        System.out.println(b2);
+        System.out.println(s1);
+        System.out.println(i2);
+        System.out.println(i2);
+        System.out.println(b1);
+        System.out.println(l1);
+        System.out.println(l2);
+        System.out.println(f2);
+        System.out.println(d1);
+        System.out.println(d2);
+        System.out.println(c1);
+        System.out.println(c3);
+        System.out.println(st1);
+        System.out.println(st2);
+        System.out.println(st3);
+        System.out.println(bo1);
+        System.out.println(bo2);
+
+
+
+
+
+
 
 
 
